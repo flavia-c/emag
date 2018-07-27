@@ -1,0 +1,4 @@
+{
+  "tests/LoginTest.py::TestLogin::()::test_invalid_email": true,
+  "tests/LoginTest.py::TestLogin::()::test_missing_email": true
+}
